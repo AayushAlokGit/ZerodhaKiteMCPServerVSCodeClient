@@ -44,6 +44,10 @@ Analyze my portfolio performance for the last month
 
 - `README.md`: Project documentation
 
+## Zerodha KITE API: The API documentation can be found at [Zerodha Kite API Docs](https://kite.trade/docs/connect/v3/).
+
+## Zerodha MCP Server: The MCP server documentation can be found at [Zerodha MCP Server Docs](https://github.com/zerodha/kite-mcp-server).
+
 ## Disclaimer
 
 This project is for educational purposes only. Use at your own risk. Always comply with Zerodha's API terms and conditions.
