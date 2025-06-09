@@ -28,6 +28,7 @@ This project demonstrates integration with the Zerodha Kite API using the Model 
 ### Usage
 
 Start the github copilot chat in agent mode , the zerodha kite mcp server tools will be automatically discovered and you can use them to interact with your Zerodha account.
+At the beginning of each chat session you will be asked to log in to your Zerodha account securely. Once logged in, you can use the mcp server tools to interact with your portfolio:
 
 Example prompts:
 
