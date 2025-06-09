@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "Zerodha Kite MCP Server": {
+      "url": "https://mcp.kite.trade/sse"
+    }
+  }
+}
